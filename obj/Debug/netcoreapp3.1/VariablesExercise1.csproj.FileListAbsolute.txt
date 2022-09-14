@@ -1,0 +1,14 @@
+C:\Users\abdie\source\repos\VariablesExercise1\VariablesExercise1\bin\Debug\netcoreapp3.1\VariablesExercise1.exe
+C:\Users\abdie\source\repos\VariablesExercise1\VariablesExercise1\bin\Debug\netcoreapp3.1\VariablesExercise1.deps.json
+C:\Users\abdie\source\repos\VariablesExercise1\VariablesExercise1\bin\Debug\netcoreapp3.1\VariablesExercise1.runtimeconfig.json
+C:\Users\abdie\source\repos\VariablesExercise1\VariablesExercise1\bin\Debug\netcoreapp3.1\VariablesExercise1.runtimeconfig.dev.json
+C:\Users\abdie\source\repos\VariablesExercise1\VariablesExercise1\bin\Debug\netcoreapp3.1\VariablesExercise1.dll
+C:\Users\abdie\source\repos\VariablesExercise1\VariablesExercise1\bin\Debug\netcoreapp3.1\VariablesExercise1.pdb
+C:\Users\abdie\source\repos\VariablesExercise1\VariablesExercise1\obj\Debug\netcoreapp3.1\VariablesExercise1.csproj.AssemblyReference.cache
+C:\Users\abdie\source\repos\VariablesExercise1\VariablesExercise1\obj\Debug\netcoreapp3.1\VariablesExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdie\source\repos\VariablesExercise1\VariablesExercise1\obj\Debug\netcoreapp3.1\VariablesExercise1.AssemblyInfoInputs.cache
+C:\Users\abdie\source\repos\VariablesExercise1\VariablesExercise1\obj\Debug\netcoreapp3.1\VariablesExercise1.AssemblyInfo.cs
+C:\Users\abdie\source\repos\VariablesExercise1\VariablesExercise1\obj\Debug\netcoreapp3.1\VariablesExercise1.csproj.CoreCompileInputs.cache
+C:\Users\abdie\source\repos\VariablesExercise1\VariablesExercise1\obj\Debug\netcoreapp3.1\VariablesExercise1.dll
+C:\Users\abdie\source\repos\VariablesExercise1\VariablesExercise1\obj\Debug\netcoreapp3.1\VariablesExercise1.pdb
+C:\Users\abdie\source\repos\VariablesExercise1\VariablesExercise1\obj\Debug\netcoreapp3.1\VariablesExercise1.genruntimeconfig.cache
